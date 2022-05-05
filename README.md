@@ -13,7 +13,7 @@ Model is trained using Keras Deep learning algorithm with terraform.
 
 ## Algorithms Used:
 # Why Keras Deep learning:
-  - 
+
 Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. 
 
 It was developed with a focus on enabling fast experimentation. Being able to go from idea to result as fast as possible is key to doing good research.
